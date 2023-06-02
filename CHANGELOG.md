@@ -65,3 +65,4 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 * **docs:** reamde update,rm changelog ([f10dde9](https://github.com/zuoxiaobai/comitizen-practice-demo/commit/f10dde9880579a9372558b131058c763fac524ae))
+@commitlint/cli @commitlint/config-conventional
